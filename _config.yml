@@ -10,3 +10,4 @@ github_username:  "wskongdesheng"
 
 # Build settings
 markdown: kramdown
+excerpt_separator: ""
