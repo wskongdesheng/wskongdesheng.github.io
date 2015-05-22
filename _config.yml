@@ -3,7 +3,7 @@ title: "Blog of Clark.King"
 email: "wskongdesheng@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
   Awesome playground for Clark King.
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://wskongdesheng.github.io" # the base hostname & protocol for your site
 twitter_username: "megabee"
 github_username:  "wskongdesheng"
