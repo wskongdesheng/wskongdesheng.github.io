@@ -39,16 +39,16 @@ Longest transaction:         10.16
 Shortest transaction:         0.00
 
 lua_ngx
-ransactions:            1000 hits
-Availability:         100.00 %
-Elapsed time:           2.03 secs
-Data transferred:         0.02 MB
-Response time:            0.02 secs
-Transaction rate:       492.61 trans/sec
-Throughput:           0.01 MB/sec
-Concurrency:            8.89
-Successful transactions:        1000
-Failed transactions:             0
-Longest transaction:          1.01
+ransactions:            4599 hits
+Availability:          91.98 %
+Elapsed time:           5.83 secs
+Data transferred:         0.09 MB
+Response time:            0.45 secs
+Transaction rate:       788.85 trans/sec
+Throughput:           0.02 MB/sec
+Concurrency:          355.07
+Successful transactions:        4599
+Failed transactions:           401
+Longest transaction:          2.58
 Shortest transaction:         0.00
 {% endhighlight %}
