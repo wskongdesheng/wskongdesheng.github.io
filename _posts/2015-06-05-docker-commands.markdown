@@ -25,4 +25,4 @@ sudo docker run -i -t ubuntu /bin/bash
 sudo docker logs - see docker logs
 sudo docker pull - docker pull image
 sudo docker images - List all images
-{% highlight %}
+{% endhighlight %}
