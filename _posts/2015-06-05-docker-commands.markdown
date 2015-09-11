@@ -5,7 +5,7 @@ date: 2015-06-05 09:53:00
 categories: docker
 ---
 # Docker 常用命令
-<code>
+{% highlight sh %}
 docker ps - Lists containers.
 sudo docker run -i -t ubuntu /bin/bash - run a docker sh
 sudo docker run -d -P training/webapp python app.py - run a docker web app in background
@@ -25,4 +25,4 @@ sudo docker run -i -t ubuntu /bin/bash
 sudo docker logs - see docker logs
 sudo docker pull - docker pull image
 sudo docker images - List all images
-</code>
+{% highlight %}
