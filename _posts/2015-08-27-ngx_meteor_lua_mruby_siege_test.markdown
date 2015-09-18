@@ -24,6 +24,20 @@ Failed transactions:             0
 Longest transaction:          0.13
 Shortest transaction:         0.00
 
+gin
+ransactions:            4100 hits
+Availability:          82.00 %
+Elapsed time:           8.55 secs
+Data transferred:         0.02 MB
+Response time:            0.98 secs
+Transaction rate:       479.53 trans/sec
+Throughput:           0.00 MB/sec
+Concurrency:          468.35
+Successful transactions:        4100
+Failed transactions:           900
+Longest transaction:          5.82
+Shortest transaction:         0.00
+
 meteor
 ransactions:            7894 hits
 Availability:          78.94 %
